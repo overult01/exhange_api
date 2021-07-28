@@ -15,7 +15,7 @@ d2 = now.strftime('%Y-%m-%d %H:%M:%S')
 d2
 # 3개의 파라미터 값
 param = {
-    'authkey' : 'tlwEqwok6Hh129iestSNNNilAXqoQIIk',
+    'authkey' : '본인의 토큰값',
     'searchdate' : str(d1),
     'data' : 'AP01'
 }
